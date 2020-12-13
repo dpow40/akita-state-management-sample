@@ -1,0 +1,17 @@
+{
+  "name": "state-management",
+  "version": "1.0.0",
+  "description": "State Management for JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dsp",
+  "license": "ISC",
+  "dependencies": {
+    "@datorama/akita": "^5.3.0",
+    "axios": "^0.21.0",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
